@@ -30,7 +30,7 @@ This project is a premium landing page designed for Apex Advisory, a high-net-wo
 ## Project Structure
 
 ```
-Apex Advisory/
+Apex-Advisory/
 ├── index.html          # Main HTML file
 ├── styles.css          # Custom CSS styles
 ├── script.js           # JavaScript functionality
@@ -50,7 +50,7 @@ Apex Advisory/
 ### Quick Start
 ```bash
 # Navigate to project directory
-cd "Apex Advisory"
+cd "Apex-Advisory"
 
 # Open in default browser
 start index.html
